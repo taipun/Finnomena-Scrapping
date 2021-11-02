@@ -1,6 +1,6 @@
 # Finnomena-Web-Scraping
 
-Finnomena Web Scraping by Selenium, Beautiful Soup
+Finnomena Web Scraping
 
 ```
 getFinancialDetails(symbol='PRINC', isAnnual=True)
